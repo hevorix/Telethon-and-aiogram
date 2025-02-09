@@ -3,7 +3,7 @@ from telethon.errors import PhoneCodeInvalidError
 from time import sleep
 import os
 
-phone_numbers = '+998...'.split(",")  # Telefon raqamlarini vergul bilan ajrating
+phone_numbers = '+998909332368'.split(",")  # Telefon raqamlarini vergul bilan ajrating
 api_id = 10953300
 api_hash = '9c24426e5d6fa1d441913e3906627f87'
 
