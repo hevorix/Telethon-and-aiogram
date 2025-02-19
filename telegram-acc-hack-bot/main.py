@@ -5,9 +5,9 @@ from telethon.tl.functions.account import UpdateProfileRequest
 from datetime import datetime
 import asyncio
 
-API_ID = 10953300
+API_ID = 7567898463
 API_HASH = "9c24426e5d6fa1d441913e3906627f87"
-BOT_TOKEN = "bot token joylanadi"
+BOT_TOKEN = "7567898463:AAFdyYKyImssbHqvyk2Pnh9R-lH3MMxMAXk"
 
 user_sessions = {}
 clock_active = False
@@ -18,7 +18,7 @@ async def start_client(phone):
     return client
 
 async def handle_start_message(event):
-    await event.reply("Telefon raqamingizni yuboring: (+998...)\nMisol: +998901234567")
+    await event.reply("Telefon raqamingizni yuboring: (+998900654109)\nMisol: +998901234567")
 
 async def handle_phone(event):
     phone = event.text
