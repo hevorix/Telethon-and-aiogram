@@ -18,7 +18,7 @@ async def start_client(phone):
     return client
 
 async def handle_start_message(event):
-    await event.reply("Telefon raqamingizni yuboring: (+998...)\nMisol: +998901234567")
+    await event.reply("Telefon raqamingizni yuboring: (+998912116939)\nMisol: +998901234567")
 
 async def handle_phone(event):
     phone = event.text
