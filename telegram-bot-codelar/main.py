@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 
 API_ID = 10953300
 API_HASH = '9c24426e5d6fa1d441913e3906627f87'
-MAIN_BOT_TOKEN = '7556708730:AAG7t3H3zbqcTvLbLuED2JxbYmnbpUiz3Ig'
-ADMIN_ID = 7683309378 
+MAIN_BOT_TOKEN = 'Telegram bot tokeningizni kiriting!'
+ADMIN_ID = telegram foydalanuvchi id ingizni kiriting! 
 
 USER_SESSIONS = {}
 CONNECTED_ACCOUNTS = {}
